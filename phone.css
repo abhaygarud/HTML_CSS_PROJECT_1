@@ -1,0 +1,37 @@
+#navbar{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    top: 1px;
+}
+#navbar logo{
+    position:f;
+
+}
+
+
+#services {
+
+    flex-direction:column;
+    flex-wrap: wrap;
+    height: 400px;
+
+}
+#services .box{
+    height: 50px;
+    width: 50px;
+    
+}
+
+
+.clients img{
+    
+    size: 2px;
+    height: 50px;
+    display: block;
+    justify-content: center;
+
+}
+body{
+    background-color:red;
+}
